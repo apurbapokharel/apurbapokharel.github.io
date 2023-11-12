@@ -6,10 +6,15 @@ published: true
 ---
 
 ## Projects
-The following is a not exhaustive list of projects where I have been involved. It includes international and national fund projects, as well as personal (not fund) software projects.
+I will break down the projects that I have been involved in two parts.
 
-#### MicroPython Libraries and Drivers Series
-<img src="https://img.shields.io/badge/project-software-green">
+### As a developer
 
-The *upy-series* (read it as micropy series) is a collection of libraries and drivers built for MicroPython-based boards (i.e., ESP32, RP2040, etc.). It includes, i.e., drivers for YL-69 or HL-69 resistive soil moisture sensor, relays, etc.<br>
-Resources: <a href="https://github.com/lcarnevale/upy-series">repository</a>
+1. <a href="https://redchillies.org/">At RedChillies Labs,Inc </a>.
+2. <a href="https://cedro.finance/">At Cedro.finance</a>
+3. <a href="https://zebec.io/">At Zebec protocol</a>
+4. <a href="https://ibriz.ai/">At Ibriz.ai </a>
+
+### As a researcher at UNT
+
+1. Working on consensus protocols with my Professor Ram Dantu. More details coming soon...
