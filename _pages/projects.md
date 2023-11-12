@@ -6,9 +6,9 @@ published: true
 ---
 
 ## Projects
-I will break down the projects that I have been involved in two parts.
+I will break down the projects that I have been involved in..
 
-### As a developer
+### As a Blockchain developer
 
 1. <a href="https://redchillies.org/">At RedChillies Labs,Inc </a>.
 2. <a href="https://cedro.finance/">At Cedro.finance</a>

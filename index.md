@@ -11,4 +11,4 @@ published: true
 Blockchains and Formal Verification.
 
 #### Short Biography
-I a PhD student at the University of North Texas. I worked as a developer in the blockchain space for nearly three years before starting my the zenith chapter ofmy academic career at UNT. My PhD advisor is Professor Ram Dantu and I am working with him in the Network Security Labs.
+I am a PhD student at the University of North Texas. I worked as a developer in the blockchain space for nearly three years before joining UNT. My PhD advisor is Professor Ram Dantu and I am working with him in the Network Security Labs.
