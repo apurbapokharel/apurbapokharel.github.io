@@ -8,5 +8,6 @@ published: true
 ## Research
 My research interests are as follows:
 - Distributed systems specifically distributed ledger technology, Blockchains
+- Integrating intelligent agents into blockchain
 - Formal Verifications
 - Algorithms and optimization

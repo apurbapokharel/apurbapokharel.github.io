@@ -8,7 +8,7 @@ published: true
 ---
 
 #### Research Areas
-Blockchains and Formal Verification.
+Blockchains and artificial intelligence.
 
 #### Short Biography
 I am a PhD student at the University of North Texas. I worked as a developer in the blockchain space for nearly three years before joining UNT. My PhD advisor is Professor Ram Dantu and I am working with him in the Network Security Labs.

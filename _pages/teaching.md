@@ -5,5 +5,6 @@ permalink: /teaching/
 published: true
 ---
 
-## Classes
-- **University of North Texas**, TA for Computer Science II under Professor David Keathly [2023 - now].
+## Classes at Univeristy of North Texas
+- TA for Computer Programming II under Professor Fernando Mosquera [2024 Spring].
+- TA for Computer Science II under Professor David Keathly [2023 Fall].
