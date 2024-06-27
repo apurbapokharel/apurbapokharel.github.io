@@ -11,6 +11,8 @@ published: true
 
 1. My first semester research has been accepted for a poster in 11th annual CAE in Cybersecurity Community Symposium.
 
+2. My second semester research has been accepted for a full paper in IEEE's BCCA confrence. (Will link once available)
+
 #### 2022
 
 1. Crypto Inheritance Planning For HODLers: Methods To Safely Transfer Digital Assets To Beneficiaries.
