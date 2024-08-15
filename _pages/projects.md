@@ -8,7 +8,7 @@ published: true
 ## Projects
 I will break down the projects that I have been involved in..
 
-### As a Blockchain developer
+### As a Software developer
 
 1. <a href="https://redchillies.org/">At RedChillies Labs,Inc </a>.
 2. <a href="https://cedro.finance/">At Cedro.finance</a>
@@ -17,4 +17,4 @@ I will break down the projects that I have been involved in..
 
 ### As a researcher at UNT
 
-1. Working on consensus protocols with my Professor Ram Dantu. More details coming soon...
+1. Working on an autonomous consensus protocols with Professor Ram Dantu. More details coming soon...
