@@ -17,4 +17,4 @@ I will break down the projects that I have been involved in..
 
 ### As a researcher at UNT
 
-1. Working on an autonomous consensus protocols with Professor Ram Dantu. More details coming soon...
+1. Working on an autonomous consensus protocols with Professor Ram Dantu. See Publication Page.
