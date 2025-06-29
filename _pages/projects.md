@@ -5,9 +5,6 @@ permalink: /projects/
 published: true
 ---
 
-## Projects
-I will break down the projects that I have been involved in..
-
 ### As a Software developer
 
 1. <a href="https://redchillies.org/">At RedChillies Labs,Inc </a>.

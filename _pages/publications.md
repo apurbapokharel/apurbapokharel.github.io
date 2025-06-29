@@ -13,7 +13,7 @@ published: true
 
 2. My 1st research paper has been accepted for a full paper in IEEE's BCCA confrence. [[Link](https://ieeexplore.ieee.org/abstract/document/10844448)]
 
-3. A draft of my 2nd research paper has been archived on arvix and is in the process of getting it peer reviewed and published.[[Link](https://arxiv.org/abs/2504.02128)]
+3. A draft of my 2nd research paper has been archived on arvix and is in the process of being peer reviewed and published.[[Link](https://arxiv.org/abs/2504.02128)]
 
 #### Other Research Work
 
