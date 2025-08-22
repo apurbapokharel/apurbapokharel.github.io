@@ -7,8 +7,8 @@ profile:
 published: true
 ---
 
-#### Research Areas
-Integration of large language models (LLMs) into experimental workflows and studies.
+## Hello.
 
-#### Short Biography
-I am a PhD student at the University of North Texas. I worked as a software developer for nearly three years before joining UNT. My PhD advisor is Professor Ram Dantu and I am working with him in the Network Security Labs.
+I consider myself as an individual with few words. I let you explore this website if you choose to and build you own perseption of who I am. I'll let you add colors to the black and white sketch that I leave you with. 
+
+- Apurba Pokharel

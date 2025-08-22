@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /projects/
+permalink: /workexperience/
 published: true
 ---
 
@@ -15,3 +15,6 @@ published: true
 ### As a researcher at UNT
 
 1. Working on an autonomous consensus protocols with Professor Ram Dantu. See Publication Page.
+
+
+## Write about scilla competition
