@@ -9,6 +9,4 @@ published: true
 
 ## Hello.
 
-I let you explore this website if you choose to and build you own perseption of who I am. I'll let you add colors to the black and white sketch that I leave you with. 
-
-Apurba Pokharel
+I let you explore this website if you choose to and build you own perseption of who I am. I'll let you add colors to the black and white sketch that is represented by my name. 

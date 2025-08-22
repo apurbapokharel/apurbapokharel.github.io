@@ -86,6 +86,73 @@ Pastel Software and RedChillies were sister companies. In my resume, I include t
 * The project OMM was a fast-paced project with a team of 3 developers working on it. I had to quickly understand the code in order to write tests for it. 
 * *Key takeaway*: I learned to work in a fast-paced team and quickly navigate a large code base.
 
+---
+
+# Joy of Building
+
+I have always loved building and hacking away with the goal to impress or show it to no one. I still do this to this day, as much as I can. 
+Here is the list of things I've built over the years just because I love to program and [learn while doing it](https://github.com/apurbapokharel/codecrafters-grep-go?tab=readme-ov-file#intro). 
+
+* [BitTorrent](https://github.com/apurbapokharel/apurbapokharel-codecrafters-bittorrent-rust)
+    * The culmination of my love for Rust and distributed systems.
+
+* [Grep](https://github.com/apurbapokharel/codecrafters-grep-go)
+    * Wanted to try Go as well as build something real.
+
+* [Knight Tour Problem](https://github.com/apurbapokharel/KnightTourProblem)
+    * During 2023, I was a bit into problem-solving and visualization, so I built this after seeing it on YouTube Shorts.
+
+* [Fourier Artist](https://apurbapokharel.github.io/fourierTransform/)
+    * I cannot draw, but I still wanted to draw my girlfriend. So, I drew her using the Fast Fourier Transform.
+    * Thank you to teacher like [Coding Train](https://www.youtube.com/@TheCodingTrain) who taught me how to do this.
+
+* Microservices:
+    * Taught by Dr Ben on his fantastic software engineering class.
+    * Used microservices built using Spring, where we implemented producers and consumers for creating and processing requests.
+    * Used RabbitMQ as a queuing system for the producers.
+    * Did it for my CSCE 5430 class, so I cannot open-source the code.
+
+* Compiler:
+    * I have recently built a full C++ compiler using Java, JavaCup, and JFlex.
+    * Taught by Dr Maharjan in his fantastic compiler class.
+    * Did it for my CSCE 5650 class, so I cannot open-source the code.
+    * 10/10 on the difficulty scale, 11/10 on the sense of achievement scale.
+    * In the past, I attempted to write a [compiler](https://github.com/apurbapokharel/Ccompiler) in C, but failed miserably due to the complexity of the program.
+
+* Artificial Intelligence:
+    * Taught by Dr Pears in his fundamentals of AI class CSCE 5210.
+    * Best assignments I've done in my life.
+    * We had to build systems based on the concepts he covered in his class.
+    * Implement a search algorithm
+        * Built the brains for a ride-sharing app.
+        * We were taught A* search algorithm.
+        * Our assignment was to implement A* on a rectangular grid where a car will go pick up customers and drop them off.
+        * There was 1 car, and many customers can generate requests in a given unit of time.
+        * We had to use A* to go pick up the nearest customer.
+        * Decide to drop off one of the customers or go pick up another one (if there is space in the car).
+        * Very fun to build!
+
+    * Implement our version of Edmond's Karp Algorithm
+        * Maximize a flow through a flow network
+        * We used hill climbing, which was taught in class as a heuristic to build this.
+
+    * Application of Reinforcement learning
+        * For a ride-sharing app, there are general and premium customers
+        * When a ride request is received, the agent (Car) will use reinforcement learning to select the customer that maximizes its reward
+
+* Reinforcement Learning [projects](https://github.com/apurbapokharel/Reinforced-Learning):
+    * Wanted to learn about RL after watching the AlphaGo documentary.
+    * Used Q learning to build a maze-solving agent.
+
+* Undergrad Capstone [Project](https://github.com/apurbapokharel/musicDapp): Spotify on the Blockchain
+
+* Build [Neurons](https://github.com/apurbapokharel/AI-algorithm-implementaion-via-Java) for different kinds of neural net:
+    * Undergrad 3rd year course assignment.
+    * One of the 1st fun project.
+    * Taught me the Joy of building. 
+    * Been chasing the high ever since.
+
+---
 
 # Research Detail
 ## First things first

@@ -31,6 +31,6 @@ Exercise to me is how I sharpen my mind so that I can tackle and win in the game
 
 I came to this country with one dream. It was to contribute and be involved with the frontier of innovations. I want to be able to see this dream through. Besides this, I want to be able to close the distance and be together with my girlfriend forever, as well as take care of my mother.
 
-At the end of this and my working career, I would like to retire as an open source contributor and a guy with a reputation for being able to solve some really tough problems.
+At the end of my working career, I would like to retire as an open source contributor (best if is is something I built from the ground up) and a guy with a reputation for being able to solve some really tough problems.
 
 

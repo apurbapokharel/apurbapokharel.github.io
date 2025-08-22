@@ -7,11 +7,11 @@ published: true
 
 # About my research
 
-## Short Explanation
+#### Short Explanation
 
 My research dives into the use of LLMs and how to efficiently use them for solving problems with high agreement (unanimity). My research also explores the integration of autonomous systems into existing solutions and frameworks.
 
-## Full Fledged Explanation
+#### Full Fledged Explanation
 
 My research involves a combination of two major disciplines: blockchains and LLMs.
 

@@ -9,13 +9,13 @@ published: true
 
 I am a big supporter and apostle of open source. I am glad I get to have one foot in the field of research and one in the field of engineering and development, where open source is prevalent. I am always open to any open source contribution!
 
-## Research Contributions
+#### Research Contributions
 
 * All my research work is open source. You can find them under the research section.
 
 * Recently, I had the opportunity to contribute as a Technical Program Chair in the IEEE BCCA 2025 conference.
 
-## Open Source Development
+#### Open Source Development
 
 I have been recently trying to get more into open source contributions as well, but that is easier said than done. Here are some of my very few open source contributions I've made in the field of engineering, computer science, and development.
 
