@@ -35,7 +35,7 @@ published: true
 Built a lot of applications in RedChillies. Built games for the Zilliqa blockchain, built an advanced option market which was the exact replication of [polkamarket](https://app.polkamarkets.com/) for Zilliqa.
 Our major highlight was building and launching [Checkchain](https://checkerchain.com/), where we were able to secure around 200,000 USD.
 
-RedChillies was a DAO that all of us started together. So, the takeaway here deals more with the management side than the financial side
+RedChillies was a DAO that all of us started together. So, the takeaway here deals more with the management side than the development and engineering side
 * *Key takaways*:
     1. Significant increase in skill: from learning about Scilla at Pastel to now building a complex options market on Zilliqa.
     2. Went from building and hosting simple RESTful applications to building applications using microservices, load balancers, message queuing, GraphQL, and more.
