@@ -46,7 +46,7 @@ RedChillies was a DAO that all of us started together. So, the takeaway here dea
     7. Learned that a project's success depends on its delivery than its novelty.
     8. We won big with CheckerChain but even that success was shortly lived.
 
-## Blockchain Research and Development at [Cedro](https://cedro.finance/) 
+## Research and Development Engineer at [Cedro](https://cedro.finance/) 
 ### FullTime - (May 2023 - July 2023) now [Twine](https://www.twinelabs.xyz/)
 At Cedro, I had one job: to research and draw out the plans to transition Cedro from a Layer 1 to a Layer 2 platform. My work was cut short as I had to move to the US.
 Besides this, I was also involved in finalizing the fee calculation formula used by Cedro's DEX. 
@@ -54,7 +54,7 @@ Besides this, I was also involved in finalizing the fee calculation formula used
     1. Used a differential equation for the first time in the real world to finalize the formula. 
     2. Introduced to blockchain research and system architecture.
 
-## Blockchain Developer at [Zebec protocol](https://zebec.io/)  
+## Software Developer at [Zebec protocol](https://zebec.io/)  
 ### Part-Time (June 2022 - October 2022)
 At Zebec, we had one goal. To add the message passing protocol [Wormhole](https://wormhole.com/) to their existing infrastructure.
 This was the hardest task I have done so far. It felt impossible at that time.
@@ -64,7 +64,7 @@ This was the hardest task I have done so far. It felt impossible at that time.
     3. There was little to no documentation for the wormhole. So, we had to study their code and build using that.
     4. Communication skill was developed as we were working closely with the wormhole team. They were testing their protocol through us. We had regular meetings and communication streams.
 
-## FullStack Developer at Pastel Software Solutions 
+## Software Developer at Pastel Software Solutions 
 ### FullTime - (April 2021 - Dec 2021) - Company Closed.
 *Disclaimer*
 Pastel Software and RedChillies were sister companies. In my resume, I include the work in Pastel under RedChillies to save space.
@@ -79,9 +79,9 @@ Pastel Software and RedChillies were sister companies. In my resume, I include t
     3. I was recognized globally for my skills in Scilla when I [won](https://x.com/zilliqa/status/1587787403783245825) the Scilla optimization competition.
     4. I picked up Scilla relatively quickly and thus found myself leading the team because of it.
 
-## Blockchain Intern at [Ibriz.ai](https://ibriz.ai/) 
+## Intern at [Ibriz.ai](https://ibriz.ai/) 
 ### FullTime - (Nov 2020 - Dec 2020)
-* At Ibriz, I was assigned the role of testing out the blockchain applications being built on the Icon Blockchain. 
+* At Ibriz, I was assigned the role of testing out the python applications being built on the Icon Blockchain. 
 * I was involved with projects like [OMM](https://omm.finance/) and [Balanced Network](https://balanced.network/).
 * The project OMM was a fast-paced project with a team of 3 developers working on it. I had to quickly understand the code in order to write tests for it. 
 * *Key takeaway*: I learned to work in a fast-paced team and quickly navigate a large code base.
