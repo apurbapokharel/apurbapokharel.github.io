@@ -44,7 +44,7 @@ RedChillies was a DAO that all of us started together. So, the takeaway here dea
     5. Many of our in-house projects, like ZilChil (Chess in Zilliqa), PredictionDex (Sports prediction market), initially succeeded but failed later on.
     6. Some projects didn't even make it to launch due to the lack of funding to deploy them.
     7. Learned that a project's success depends on its delivery than its novelty.
-    8. We won big with CheckerChain but even that success was shortly lived.
+    8. We won big with CheckerChain but even that success was short lived.
 
 ## Research and Development Engineer at [Cedro](https://cedro.finance/) 
 ### FullTime - (May 2023 - July 2023) now [Twine](https://www.twinelabs.xyz/)
