@@ -7,24 +7,35 @@ published: true
 
 # About my research
 
-#### Short Explanation
+#### Piece wise Explanation
 
-My research dives into the use of LLMs and how to efficiently use them for solving problems with high agreement (unanimity). My research also explores the integration of autonomous systems into existing solutions and frameworks.
+```
+"You will solve a lot of related problems which will ultimately be your dissertation and address one giant problem". Dr. Ram Dantu
+```
 
-#### Full Fledged Explanation
+My research dives into :
+1. How to make use of LLMs and how to efficiently use them for solving problems with high agreement (unanimity). 
+2. How to address the inherent limitations of these AI systems: How can we improve the trust, transparency, and interpretability of such systems?
+3. How to integrate autonomous systems into existing solutions and frameworks.
+4. How to integrate LLMs with blockchains and introduce new novel techniques to address the above concerns.
+
+#### How it all started Explanation
 
 My research involves a combination of two major disciplines: blockchains and LLMs.
 
 We initially raised the questions "Why is there no true unanimous consensus for blockchains?" and "Can we use Blockchains for collaborative problem solving at a consensus level?" or in other words, can we design a consensus protocol for a distributed ledger system that is based on collaboration and deliberation, where the miners come to unanimous consensus. Granted, this is a very unorthodox and, for some, even a blasphemous problem to attempt to solve, but Dr. Dantu has instilled in me his joy of solving the unsolvable, or at least "taking a stab at it," as he frequently puts it. My 1st paper, titled "Deliberation Leads to Unanimous Consensus," explores this purely from a theoretical perspective. Building on this, we asked ourselves the question based on a [video](https://www.youtube.com/watch?v=3l1RMiGeTfU) we saw a long time ago. "Can we have autonomous agents capable of deliberation?", so the result of exploring this question is the work done in my second paper. The proof of concept implementation, where we took an open source blockchain (Nimiq), changed its consensus protocol, and built a deliberation framework that serves as the new consensus protocol, will be made public as soon as the paper is accepted for publication.
 
-With this, we now ask ourselves a new question: "This deliberation protocol is for definitive deliberation, but what about subjective deliberation?". So we will be *taking a stab at this* for the next work.
+~~With this, we now ask ourselves a new question: "This deliberation protocol is for definitive deliberation, but what about subjective deliberation?". So we will be *taking a stab at this* for the next work.~~
+
+We now ask ourselves a new question: "Can we use principles from multi-agent systems to understand and explain the behaviour of LLMs in a multi-agent deliberation system?" So we will be taking a stab at this for the next work.
 
 # Collaboration at UNT
 
 My lab, the Network Security Lab [NSL](https://engineering.unt.edu/cse/research/labs/nsl/index.html), is a lab where we study and propose solutions to the next generation of networks. Over the 20 years that NSL has been around, it has addressed and proposed novel solutions ranging from next-gen 911 to using electromagnetic waves for 3D spatial rendering, all the way to blockchains, AI, blockchain for AI, AI for blockchain (my research), quantum computing, and now LLMs.
 We solve a plethora of problems and are a highly collaborative lab. As a result, my publications have papers from diverse scopes of computer science.
 
-# Published papers while at UNT
+# Published papers while at UNT 
+### Not an exhaustive list
 
 1. Apurba Pokharel, Ram Dantu, Shakila Zaman, Sirisha Talapuru, Vinh Quach, “Deliberation Leads to Unanimous Consensus” International Conference on Blockchain Computing and Application (BCCA), 2024. (Accepted and Published, [Link](https://ieeexplore.ieee.org/document/10844448))
 2. Apurba Pokharel, Ram Dantu, Shakila Zaman, Sirisha Talapuru, Vinh Quach, “Achieving Unanimous Consensus in Decision Making Using Multi-Agents” arXiv. (Preprint, Under Review, [Link](https://arxiv.org/abs/2504.02128))

@@ -30,7 +30,7 @@ published: true
 
 # Software engineering
 
-## FullStack Engineer at [RedChillies Labs, Inc](https://redchillies.org/) 
+## FullStack Engineer (R&D) at [RedChillies Labs, Inc](https://redchillies.org/) 
 ### FullTime - (Dec 2021 - July 2023) - Company Closed.
 Built a lot of applications in RedChillies. Built games for the Zilliqa blockchain, built an advanced option market which was the exact replication of [polkamarket](https://app.polkamarkets.com/) for Zilliqa.
 Our major highlight was building and launching [Checkchain](https://checkerchain.com/), where we were able to secure around 200,000 USD.
@@ -154,7 +154,7 @@ Here is the list of things I've built over the years just because I love to prog
 
 ---
 
-# Research Detail
+<!-- # Research Detail
 ## First things first
 The people at Nimiq Sorren and Dr. Pascal were incredibly helpful to me when I reached out to them in the earlier phases of my work. Dr. Pascal specially helped me figure out how to get the client running, as well as sat with me multiple times and answered my questions on Nimiq's architecture early on. I am sure without him, I would not have been able to do what I did. 
 
@@ -194,4 +194,4 @@ The goal was not to add autonomous agents into the architecture I built so that 
 To do this, I had to have a simple working version where different LLMs interact with one another to solve problems.
 That was easy, and at the time, LLM was one of the most researched and published areas of CS.
 The hard part of the hill was already over. Adding these agentic features to the architecture was a breeze. Those 40000 lines of code written by Dr. Pascal and others felt to me as if I had written them. 
-The work was ready. I did my experiments, wrote my 2nd paper, and sent it for review. Fingers crossed.
+The work was ready. I did my experiments, wrote my 2nd paper, and sent it for review. Fingers crossed. -->

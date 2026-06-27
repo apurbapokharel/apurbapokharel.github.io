@@ -34,16 +34,14 @@ I do reminisce about these days and see a lot of missed opportunities where I co
 
 * In 2024, I presented my research poster at a conference back in 2024.
 
-* In the past, I've been invited to speak as a panelist in a blockchain (event)[https://www.linkedin.com/posts/bibekblockchain_blockchainfornepal-blockchain-coffee-activity-6943570986210320385-WzD9/]. We talked about how to get into the industry, challenges faced, experiences, advice to new developers, and concluded with a Q&A section.
+* In the past, I've been invited to speak as a panelist in a blockchain [event](https://www.linkedin.com/posts/bibekblockchain_blockchainfornepal-blockchain-coffee-activity-6943570986210320385-WzD9/). We talked about how to get into the industry, challenges faced, experiences, advice to new developers, and concluded with a Q&A section.
 
 # Service and Leadership
 
 * In 2025, serving as the secretary for the Nepalese Student Association (NSA) at the University of North Texas.
 
-* In 2022-2023, I was the founder and member of the youth club back home for my community.
-
 * In 2020, I mentored 4 undergraduate students for their capstone projects.
 
 # Technical Blogs
 
-* In the past, I wrote about technical things I did and things that fascinated me in (Medium)[https://medium.com/@apurbapokharel].
+* In the past, I wrote about technical things I did and things that fascinated me in [Medium](https://medium.com/@apurbapokharel).
