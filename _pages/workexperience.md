@@ -27,6 +27,8 @@ published: true
     * Proficient with architectures like CNN, RNN, and initially used [LSTM](https://github.com/apurbapokharel/deliKit/blob/master/src/main.ipynb) for the autonomous agentic framework, which revealed limitations with this approach.
     * Experience with using HugginFace for building pipelines.
     * Used the PEFT method (LORA) for LLM fine-tuning.
+    * AI-Interpretability: proposed a novel technique that we coined *anchoring* that addresses how LLMs deliberate and come to a decision.
+
 
 # Software engineering
 

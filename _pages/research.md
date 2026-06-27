@@ -13,17 +13,19 @@ published: true
 "You will solve a lot of related problems which will ultimately be your dissertation and address one giant problem". Dr. Ram Dantu
 ```
 
-My research dives into :
+To answer this: How can we improve the trust, transparency, and interpretability of such systems? I dive into answering the following:
+
 1. How to make use of LLMs and how to efficiently use them for solving problems with high agreement (unanimity). 
-2. How to address the inherent limitations of these AI systems: How can we improve the trust, transparency, and interpretability of such systems?
-3. How to integrate autonomous systems into existing solutions and frameworks.
-4. How to integrate LLMs with blockchains and introduce new novel techniques to address the above concerns.
+2. How to integrate autonomous systems into existing solutions and frameworks.
+3. How to integrate LLMs with blockchains and introduce new novel techniques to address the above concerns.
 
 #### How it all started Explanation
 
 My research involves a combination of two major disciplines: blockchains and LLMs.
 
-We initially raised the questions "Why is there no true unanimous consensus for blockchains?" and "Can we use Blockchains for collaborative problem solving at a consensus level?" or in other words, can we design a consensus protocol for a distributed ledger system that is based on collaboration and deliberation, where the miners come to unanimous consensus. Granted, this is a very unorthodox and, for some, even a blasphemous problem to attempt to solve, but Dr. Dantu has instilled in me his joy of solving the unsolvable, or at least "taking a stab at it," as he frequently puts it. My 1st paper, titled "Deliberation Leads to Unanimous Consensus," explores this purely from a theoretical perspective. Building on this, we asked ourselves the question based on a [video](https://www.youtube.com/watch?v=3l1RMiGeTfU) we saw a long time ago. "Can we have autonomous agents capable of deliberation?", so the result of exploring this question is the work done in my second paper. The proof of concept implementation, where we took an open source blockchain (Nimiq), changed its consensus protocol, and built a deliberation framework that serves as the new consensus protocol, will be made public as soon as the paper is accepted for publication.
+We initially raised the questions "Why is there no true unanimous consensus for blockchains?" and "Can we use Blockchains for collaborative problem solving at a consensus level?" or in other words, can we design a consensus protocol for a distributed ledger system that is based on collaboration and deliberation, where the miners come to unanimous consensus. Granted, this is a very unorthodox and, for some, even a blasphemous problem to attempt to solve, but Dr. Dantu has instilled in me his joy of solving the unsolvable, or at least "taking a stab at it," as he frequently puts it. My 1st paper, titled "Deliberation Leads to Unanimous Consensus," explores this purely from a theoretical perspective. Building on this, we asked ourselves the question based on a [video](https://www.youtube.com/watch?v=3l1RMiGeTfU) we saw a long time ago. "Can we have autonomous agents capable of deliberation?", so the result of exploring this question is the work done in my second paper. The proof of concept implementation, where we took an open source blockchain (Nimiq), changed its consensus protocol, and built a deliberation framework that serves as the new consensus protocol, is public at my [github](https://github.com/apurbapokharel/blockchain-core-js).
+
+#### How it's going
 
 ~~With this, we now ask ourselves a new question: "This deliberation protocol is for definitive deliberation, but what about subjective deliberation?". So we will be *taking a stab at this* for the next work.~~
 
