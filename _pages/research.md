@@ -13,7 +13,7 @@ published: true
 "You will solve a lot of related problems which will ultimately be your dissertation and address one giant problem". Dr. Ram Dantu
 ```
 
-To answer this: How can we improve the trust, transparency, and interpretability of such systems? I dive into answering the following:
+To answer this: How can we improve the trust, transparency, and interpretability of modern AI systems? I dive into answering the following:
 
 1. How to make use of LLMs and how to efficiently use them for solving problems with high agreement (unanimity). 
 2. How to integrate autonomous systems into existing solutions and frameworks.
